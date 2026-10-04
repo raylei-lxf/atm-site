@@ -29,3 +29,8 @@
 - 客服邮箱统一为 `raylei483@gmail.com`（已写入 index / privacy / terms）；若以后更换，需三处同改 + 更新 Creem 各处（Business Details / 商品描述 / Private note）；
 - 条款中尚未写"适用法律/管辖"等条款，如需可在 #73.8（购买条款/隐私说明）里统一补充后再更新本站;
 - 官方偏好"品牌邮箱"（如 support@yourdomain.com），当前用 Gmail 属可接受的过渡方案；若审核要求更换，可升级为域名邮箱（并把本站切换到自有域名）。
+
+## 维护须知（2026-10-03）
+
+- **价格单点化**：网站上的价格统一引用 `_config.yml` 的 `price_usd`（当前 `"2.00"`）。以后改价 = 改 `_config.yml` 一处 + Creem 商品 Price 字段 + push，页面显示自动跟随（外观不变）。
+- **Marketplace 链接已临时移除**：因插件在 Marketplace 被微软暂时封禁（等待解封），`index.md` 中两处「VS Code Marketplace」超链接已临时改为纯文字（顶部 + "How it works" 第 1 步）。解封后恢复链接并 push（进度见任务 #73.2）。

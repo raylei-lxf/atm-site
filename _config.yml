@@ -1,5 +1,6 @@
 title: Agent Task Manager
 description: A task management tool that dispatches work to AI.
+price_usd: "2.00"
 theme: minima
 header_pages:
   - privacy.md

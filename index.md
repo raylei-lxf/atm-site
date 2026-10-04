@@ -9,7 +9,7 @@ title: Agent Task Manager
 
 Agent Task Manager pairs a kanban-style task board with MCP-powered AI collaboration. Describe what you want in plain language, and your AI assistant creates and works through tasks — every conversation stays traceable: archived, summarized, and reportable.
 
-**[Install from the VS Code Marketplace →](https://marketplace.visualstudio.com/items?itemName=Mid-Autumn.agent-task-manager)**
+**Install from the VS Code Marketplace**
 
 ## What you get
 
@@ -23,20 +23,20 @@ Agent Task Manager pairs a kanban-style task board with MCP-powered AI collabora
 
 ## Pricing
 
-**$2.00 USD — one-time payment. Lifetime license for one device. No subscription.**
+**${{ site.price_usd }} USD — one-time payment. Lifetime license for one device. No subscription.**
 
 A **1-month free trial** is included — it starts automatically the first time you run the extension.
 
 ## How it works
 
-1. Install Agent Task Manager from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Mid-Autumn.agent-task-manager) — your **1-month free trial** starts automatically.
+1. Install Agent Task Manager from the VS Code Marketplace — your **1-month free trial** starts automatically.
 2. Purchase a license when you're ready to keep it (button below).
 3. Send us your **Device Code** — it's shown on the extension's purchase page. You can paste it at checkout or email it to us.
 4. Import the license file you receive — the extension is unlocked permanently on that device.
 
 ## Buy a license
 
-**[Buy License — $2.00](https://creem.io/payment/prod_3YHm3gjJsPCnNQS66vEaiq0)**
+**[Buy License — ${{ site.price_usd }}](https://creem.io/payment/prod_3YHm3gjJsPCnNQS66vEaiq0)**
 
 Payments are processed securely by **Creem** (Merchant of Record). Card, Apple Pay, Google Pay, and Alipay accepted (availability depends on your device and location).
 
