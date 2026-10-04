@@ -1,0 +1,31 @@
+# 网站（GitHub Pages）部署说明
+
+本文件夹是 **Agent Task Manager 官网/落地页** 的源文件（英文），用于满足 Creem 账号审核要求：产品可看懂、价格可见、隐私政策 + 服务条款、客服邮箱可见。
+
+## 文件说明
+
+- `index.md`：落地页（产品介绍 + 功能 + $2 定价 + 购买链接 + 客服邮箱 + 法律页入口）
+- `privacy.md`：隐私政策（Privacy Policy）
+- `terms.md`：服务条款（Terms of Service，含退款与"同设备恢复"政策）
+- `_config.yml`：GitHub Pages（Jekyll + minima 主题）配置
+- `README.md`：本说明（已从站点构建中排除）
+
+## 发布步骤（约 10 分钟）
+
+1. 在 GitHub 新建一个 **public** 仓库，例如 `atm-site`；
+2. 把本文件夹中的文件上传到该仓库**根目录**（README.md 可传可不传）；
+3. 仓库 **Settings → Pages → Build and deployment → Source: Deploy from a branch → Branch: main / (root)** → Save；
+4. 等待 1–2 分钟，访问 `https://<你的用户名>.github.io/atm-site/` 自查：
+   - 首页可打开、价格 $2.00 可见、客服邮箱（raylei483@gmail.com）可见；
+   - Privacy Policy / Terms of Service 页面可打开（顶部导航有入口）；
+5. 该网址后续用于：
+   - Creem **Settings → Business Details**（网站字段）；
+   - 审核提交表单中的"产品 URL / 商店 URL"。
+
+## 注意
+
+- 站点必须**公开可访问**（不要加密码、不要用私密仓库），审核期间保持在线；
+- 购买链接已填为商品 payment link（`https://creem.io/payment/prod_3YHm3gjJsPCnNQS66vEaiq0`）；**账号审核通过前打开会显示 "Live payments are not enabled"，属正常现象**（发布后可再用商品 Share → Copy payment link 核对一次）；
+- 客服邮箱统一为 `raylei483@gmail.com`（已写入 index / privacy / terms）；若以后更换，需三处同改 + 更新 Creem 各处（Business Details / 商品描述 / Private note）；
+- 条款中尚未写"适用法律/管辖"等条款，如需可在 #73.8（购买条款/隐私说明）里统一补充后再更新本站;
+- 官方偏好"品牌邮箱"（如 support@yourdomain.com），当前用 Gmail 属可接受的过渡方案；若审核要求更换，可升级为域名邮箱（并把本站切换到自有域名）。
