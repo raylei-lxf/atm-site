@@ -15,12 +15,13 @@
 1. 在 GitHub 新建一个 **public** 仓库，例如 `atm-site`；
 2. 把本文件夹中的文件上传到该仓库**根目录**（README.md 可传可不传）；
 3. 仓库 **Settings → Pages → Build and deployment → Source: Deploy from a branch → Branch: main / (root)** → Save；
-4. 等待 1–2 分钟，访问 `https://<你的用户名>.github.io/atm-site/` 自查：
+4. 等待 1–2 分钟，访问 `https://raylei-lxf.github.io/atm-site/` 自查：
    - 首页可打开、价格 $2.00 可见、客服邮箱（raylei483@gmail.com）可见；
    - Privacy Policy / Terms of Service 页面可打开（顶部导航有入口）；
-5. 该网址后续用于：
-   - Creem **Settings → Business Details**（网站字段）；
-   - 审核提交表单中的"产品 URL / 商店 URL"。
+5. **绑定自定义域名**（Creem 审核要求，已配置）：
+   - 仓库内 `CNAME` 文件 = `atm.raylei.online`；DNS 需添加记录：类型 `CNAME`、主机 `atm`、值 `raylei-lxf.github.io`；
+   - GitHub 自动签发 HTTPS 证书（几分钟），在 Settings → Pages 勾选 Enforce HTTPS；
+   - 对外网址统一为 `https://atm.raylei.online`，用于 Creem **Business Details 网站字段**与审核表单的“产品 URL”。
 
 ## 注意
 
@@ -28,9 +29,10 @@
 - 购买链接已填为商品 payment link（`https://creem.io/payment/prod_3YHm3gjJsPCnNQS66vEaiq0`）；**账号审核通过前打开会显示 "Live payments are not enabled"，属正常现象**（发布后可再用商品 Share → Copy payment link 核对一次）；
 - 客服邮箱统一为 `raylei483@gmail.com`（已写入 index / privacy / terms）；若以后更换，需三处同改 + 更新 Creem 各处（Business Details / 商品描述 / Private note）；
 - 条款中尚未写"适用法律/管辖"等条款，如需可在 #73.8（购买条款/隐私说明）里统一补充后再更新本站;
-- 官方偏好"品牌邮箱"（如 support@yourdomain.com），当前用 Gmail 属可接受的过渡方案；若审核要求更换，可升级为域名邮箱（并把本站切换到自有域名）。
+- 官方偏好“品牌邮箱”（如 support@yourdomain.com），当前用 Gmail 属可接受的过渡方案；若审核要求更换，可升级为域名邮箱（本站已切换到自有域名 atm.raylei.online）。
 
 ## 维护须知（2026-10-03）
 
 - **价格单点化**：网站上的价格统一引用 `_config.yml` 的 `price_usd`（当前 `"2.00"`）。以后改价 = 改 `_config.yml` 一处 + Creem 商品 Price 字段 + push，页面显示自动跟随（外观不变）。
 - **Marketplace 链接已临时移除**：因插件在 Marketplace 被微软暂时封禁（等待解封），`index.md` 中两处「VS Code Marketplace」超链接已临时改为纯文字（顶部 + "How it works" 第 1 步）。解封后恢复链接并 push（进度见任务 #73.2）。
+- **自定义域名**：`CNAME` 文件 = `atm.raylei.online`，`_config.yml` 的 `url` 同步为 `https://atm.raylei.online`；更换域名需同步改这两处 + DNS 的 CNAME 记录 + Creem 网站字段。
