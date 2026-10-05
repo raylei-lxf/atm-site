@@ -4,7 +4,7 @@
 
 ## 文件说明
 
-- `index.md`：落地页（产品介绍 + 功能 + $2 定价 + 购买链接 + 客服邮箱 + 法律页入口）
+- `index.md`：落地页（产品介绍 + 功能 + $10 定价 + 购买链接 + 客服邮箱 + 法律页入口）
 - `privacy.md`：隐私政策（Privacy Policy）
 - `terms.md`：服务条款（Terms of Service，含退款与"同设备恢复"政策）
 - `_config.yml`：GitHub Pages（Jekyll + minima 主题）配置
@@ -16,7 +16,7 @@
 2. 把本文件夹中的文件上传到该仓库**根目录**（README.md 可传可不传）；
 3. 仓库 **Settings → Pages → Build and deployment → Source: Deploy from a branch → Branch: main / (root)** → Save；
 4. 等待 1–2 分钟，访问 `https://raylei-lxf.github.io/atm-site/` 自查：
-   - 首页可打开、价格 $2.00 可见、客服邮箱（raylei483@gmail.com）可见；
+   - 首页可打开、价格 $10.00 可见、客服邮箱（raylei483@gmail.com）可见；
    - Privacy Policy / Terms of Service 页面可打开（顶部导航有入口）；
 5. **绑定自定义域名**（Creem 审核要求，已配置）：
    - 仓库内 `CNAME` 文件 = `atm.raylei.online`；DNS 需添加记录：类型 `CNAME`、主机 `atm`、值 `raylei-lxf.github.io`；
@@ -33,6 +33,6 @@
 
 ## 维护须知（2026-10-03）
 
-- **价格单点化**：网站上的价格统一引用 `_config.yml` 的 `price_usd`（当前 `"2.00"`）。以后改价 = 改 `_config.yml` 一处 + Creem 商品 Price 字段 + push，页面显示自动跟随（外观不变）。
+- **价格单点化**：网站上的价格统一引用 `_config.yml` 的 `price_usd`（当前 `"10.00"`）。以后改价 = 改 `_config.yml` 一处 + Creem 商品 Price 字段 + push，页面显示自动跟随（外观不变）。
 - **Marketplace 链接已临时移除**：因插件在 Marketplace 被微软暂时封禁（等待解封），`index.md` 中两处「VS Code Marketplace」超链接已临时改为纯文字（顶部 + "How it works" 第 1 步）。解封后恢复链接并 push（进度见任务 #73.2）。
 - **自定义域名**：`CNAME` 文件 = `atm.raylei.online`，`_config.yml` 的 `url` 同步为 `https://atm.raylei.online`；更换域名需同步改这两处 + DNS 的 CNAME 记录 + Creem 网站字段。
