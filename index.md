@@ -38,7 +38,7 @@ A **1-month free trial** is included — it starts automatically the first time 
 
 ## Buy a license
 
-**[Buy License — ${{ site.price_usd }}](https://creem.io/payment/prod_3YHm3gjJsPCnNQS66vEaiq0)**
+**[Buy License — ${{ site.price_usd }}](https://www.creem.io/payment/prod_3YHm3gjsPCnNQS6GvEaiq0)**
 
 Payments are processed securely by **Creem** (Merchant of Record). Card, Apple Pay, Google Pay, and Alipay accepted (availability depends on your device and location).
 

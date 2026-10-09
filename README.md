@@ -26,7 +26,7 @@
 ## 注意
 
 - 站点必须**公开可访问**（不要加密码、不要用私密仓库），审核期间保持在线；
-- 购买链接已填为商品 payment link（`https://creem.io/payment/prod_3YHm3gjJsPCnNQS66vEaiq0`）；**账号审核通过前打开会显示 "Live payments are not enabled"，属正常现象**（发布后可再用商品 Share → Copy payment link 核对一次）；
+- 购买链接已填为商品 payment link（`https://www.creem.io/payment/prod_3YHm3gjsPCnNQS6GvEaiq0`）；**账号审核通过前打开会显示 "Live payments are not enabled"，属正常现象**（发布后可再用商品 Share → Copy payment link 核对一次）；
 - 客服邮箱统一为 `raylei483@gmail.com`（已写入 index / privacy / terms）；若以后更换，需三处同改 + 更新 Creem 各处（Business Details / 商品描述 / Private note）；
 - 条款中的"适用法律/管辖"与"消费者权利"条款已于 2026-10-09 补充（任务 #73.8）；退款与恢复政策以站内 terms.md 为准（签发前可退、签发后同设备免费恢复）；
 - 官方偏好“品牌邮箱”（如 support@yourdomain.com），当前用 Gmail 属可接受的过渡方案；若审核要求更换，可升级为域名邮箱（本站已切换到自有域名 atm.raylei.online）。
