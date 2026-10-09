@@ -7,7 +7,7 @@ title: Privacy Policy
 
 **Last updated: October 9, 2026**
 
-This Privacy Policy explains how we ("we", "us") handle information in connection with the **Agent Task Manager** VS Code extension (the "Extension") and licenses purchased for it.
+This Privacy Policy explains how we ("we", "us") handle information in connection with the **Agent Task Manager** software (the "Software") and licenses purchased for it.
 
 ## 1. Information we collect
 
@@ -21,10 +21,10 @@ This Privacy Policy explains how we ("we", "us") handle information in connectio
 - To provide customer support and process refunds;
 - To comply with legal obligations.
 
-## 3. What the Extension does
+## 3. What the Software does
 
-- License verification happens **offline, on your own computer**. The Extension does not send usage data, telemetry, or analytics to us.
-- To display the correct local price, the Extension may determine your approximate region (for example, from your IP address) using a third-party lookup service. Only your natural outbound IP address is exposed; the result is cached locally on your device for up to 24 hours and is not stored or shared by us.
+- License verification happens **offline, on your own computer**. The Software does not send usage data, telemetry, or analytics to us.
+- To display the correct local price, the Software may determine your approximate region (for example, from your IP address) using a third-party lookup service. Only your natural outbound IP address is exposed; the result is cached locally on your device for up to 24 hours and is not stored or shared by us.
 
 ## 4. Sharing
 

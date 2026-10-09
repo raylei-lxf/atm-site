@@ -7,7 +7,7 @@ title: Terms of Service
 
 **Last updated: October 9, 2026**
 
-These Terms of Service ("Terms") govern the purchase and use of a license for the **Agent Task Manager** VS Code extension (the "Software").
+These Terms of Service ("Terms") govern the purchase and use of a license for the **Agent Task Manager** software (the "Software").
 
 ## 1. License and trial
 
