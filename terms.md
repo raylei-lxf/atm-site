@@ -20,7 +20,7 @@ These Terms of Service ("Terms") govern the purchase and use of a license for th
 ## 2. Payments
 
 - Purchases are processed by **Creem** (creem.io) as the Merchant of Record.
-- The license price is **${{ site.price_usd }} USD**, a **one-time payment** (unless another price is shown at checkout). Taxes are handled by Creem.
+- The license price is **${{ site.price_usd }} USD**, a **one-time payment** (unless another price is shown at checkout). Taxes are handled by Creem. **The price shown at checkout is the final price.**
 
 ## 3. Refunds
 
