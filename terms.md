@@ -24,7 +24,7 @@ These Terms of Service ("Terms") govern the purchase and use of a license for th
 
 ## 3. Refunds
 
-- You can request a full refund **before your license is issued** by emailing support@si-world.online.
+- You can request a full refund **before your license is issued** by emailing atm-support@si-world.online.
 - After a license is issued, it is bound to your device and to the email address used at purchase, and is **non-refundable**; see Section 4 for free recovery options and Section 7 for your statutory rights.
 
 ## 4. License recovery & using another device
@@ -48,7 +48,7 @@ Nothing in these Terms excludes or limits any rights you may have under mandator
 
 ## 8. Governing law & disputes
 
-These Terms are governed by the laws of the People's Republic of China, excluding its conflict-of-law rules. Before pursuing any formal dispute, please contact us at **support@si-world.online** — we will always try to resolve the matter amicably first.
+These Terms are governed by the laws of the People's Republic of China, excluding its conflict-of-law rules. Before pursuing any formal dispute, please contact us at **atm-support@si-world.online** — we will always try to resolve the matter amicably first.
 
 ## 9. Changes
 
@@ -56,4 +56,4 @@ We may update these Terms from time to time. The latest version is always availa
 
 ## 10. Contact
 
-**support@si-world.online**
+**atm-support@si-world.online**

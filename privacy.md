@@ -41,8 +41,8 @@ License records (order number, Device Code, license ID, issue date) are kept as 
 
 ## 6. Your rights
 
-You can request access to, correction of, or deletion of your personal information by emailing **support@si-world.online**. Deleting license records may limit our ability to re-issue your license for the same device.
+You can request access to, correction of, or deletion of your personal information by emailing **atm-support@si-world.online**. Deleting license records may limit our ability to re-issue your license for the same device.
 
 ## 7. Contact
 
-**support@si-world.online**
+**atm-support@si-world.online**
