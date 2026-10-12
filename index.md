@@ -46,6 +46,6 @@ Full refund available before your license is issued — see the [Terms of Servic
 
 ## Support
 
-Questions, lost your license, or need help? **Email [raylei483@gmail.com](mailto:raylei483@gmail.com)** — we usually reply within 24–48 hours.
+Questions, lost your license, or need help? **Email [support@si-world.online](mailto:support@si-world.online)** — we usually reply within 24–48 hours.
 
 - [Privacy Policy](privacy.html) · [Terms of Service](terms.html)
