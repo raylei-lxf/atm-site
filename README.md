@@ -37,7 +37,7 @@
 - **Marketplace 链接已临时移除**：因插件在 Marketplace 被微软暂时封禁（等待解封），`index.md` 中两处「VS Code Marketplace」超链接已临时改为纯文字（顶部 + "How it works" 第 1 步）。解封后恢复链接并 push（进度见任务 #73.2）。
 - **自定义域名**：`CNAME` 文件 = `atm.si-world.online`，`_config.yml` 的 `url` 同步为 `https://atm.si-world.online`；更换域名需同步改这两处 + DNS 的 CNAME 记录 + Creem 网站字段。
 - **2026-10-09 维护记录（#73.8 收尾）**：
-  - `index.md`「Pricing」补充试用结束后的行为披露（看板/数据可用、AI 协作暂停——与插件内文案一致）；「Buy a license」补充退款与恢复提示；
+  - `index.md`「Pricing」补充试用结束后的行为披露（看板/数据/AI 协作可用、网页端部分功能暂停——与插件内文案一致，任务 #73.15）；「Buy a license」补充退款与恢复提示；
   - `index.md`「How it works」第 3 步更新为 Creem 结账页「Device code」必填字段（设备码随订单直达，不再以邮件为主渠道）；
   - `terms.md` 新增 §7 Consumer rights、§8 Governing law & disputes；§1 补充试用结束行为与"卸载重装不重置"；§3 退款条款明晰化（签发后不可退但同设备免费恢复）；
   - `privacy.md` 更新 Device Code（结账页填写）与 IP 判定（第三方查询 + 本机 24h 缓存）描述，Sharing 节补充 license issuance 用途。

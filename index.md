@@ -27,7 +27,7 @@ Agent Task Manager pairs a kanban-style task board with MCP-powered AI collabora
 
 A **1-month free trial** is included — it starts automatically the first time you run the extension.
 
-**After the trial:** your board and data stay fully accessible; AI collaboration (MCP tools) pauses until a license is activated.
+**After the trial:** your board, your data and AI collaboration (MCP tools) keep working; a few dashboard features (viewing AI chat / AI summaries, AI reports, the AI team page) pause until a license is activated.
 
 ## How it works
 

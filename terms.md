@@ -12,7 +12,7 @@ These Terms of Service ("Terms") govern the purchase and use of a license for th
 ## 1. License and trial
 
 - The Software includes a free trial of **one month**, starting at first activation. Uninstalling and reinstalling does not reset the trial.
-- When the trial ends, the board and your data remain fully accessible; **AI collaboration (MCP tools) pauses** until a license is activated. No board or data features are locked.
+- When the trial ends, the board, your data and AI collaboration (MCP tools) remain fully accessible; a few dashboard features (viewing AI chat / AI summaries, AI reports, the AI team page) pause until a license is activated. No board or data features are locked.
 - A paid license unlocks the Software **permanently on one device**. Each device is identified by a **Device Code** — a code derived from a firmware-level identifier of your machine. Because it is firmware-level, **reinstalling your operating system does not change the Device Code** and does not require a new license.
 - Your license is bound to **both that Device Code and the email address used at purchase**. Activation requires an account registered with the same email address.
 - Licenses are **personal and non-transferable** and may not be resold or shared. A license is valid only on the device (and email) it was issued for.
