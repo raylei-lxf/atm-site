@@ -19,7 +19,6 @@ Agent Task Manager pairs a kanban-style task board with MCP-powered AI collabora
 - 💬 **Chat archiving** — every task's AI conversation saved as JSONL, exportable to Markdown
 - 🧾 **AI summaries & reports** — summarize any task in one click; compile reports across any time range
 - 📚 **Project background & AI team** — bind tasks to AI members; keep shared context in Markdown
-- 👥 **Multi-user accounts** — isolated per-user data; your tasks travel with the project folder
 
 ## Pricing
 
