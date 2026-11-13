@@ -20,6 +20,20 @@ Agent Task Manager pairs a kanban-style task board with MCP-powered AI collabora
 - 🧾 **AI summaries & reports** — summarize any task in one click; compile reports across any time range
 - 📚 **Project background & AI team** — bind tasks to AI members; keep shared context in Markdown
 
+## Command-line core (optional)
+
+Run the dashboard and MCP server without VS Code. One line, repeat it to upgrade:
+
+```bash
+curl -fsSL https://atm.si-world.online/install.sh | sh
+```
+
+```powershell
+irm https://atm.si-world.online/install.ps1 | iex
+```
+
+`atm` starts the local core and opens the welcome page; `atm mcp` serves a stdio MCP endpoint for Claude Code, Codex and Cursor. Requires Node.js ≥ 18.
+
 ## Pricing
 
 **${{ site.price_usd }} USD — one-time payment. Lifetime license for one device, plus up to 5 delegated devices (same email). No subscription.**
