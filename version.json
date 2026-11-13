@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "generatedAt": "2026-11-13T09:53:56.806Z",
+  "stable": {
+    "version": "1.4.1",
+    "releasedAt": "2026-11-13",
+    "notesUrl": "https://atm.si-world.online/update.html",
+    "download": {
+      "npm": "agent-task-manager-core@1.4.1"
+    }
+  }
+}
