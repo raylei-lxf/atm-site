@@ -1,7 +1,6 @@
 title: Agent Task Manager
 description: A task management tool that dispatches work to AI.
 url: "https://atm.si-world.online"
-price_usd: "10.00"
 theme: minima
 header_pages:
   - privacy.md
