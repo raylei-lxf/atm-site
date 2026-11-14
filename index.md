@@ -11,11 +11,11 @@ title: Agent Task Manager
 
 ## Downloads
 
-[Download and install Agent Task Manager](https://si-world.online/download.html) — view the npm installation steps and current extension availability.
+[Download and install Agent Task Manager](https://si-world.online/download.html) — view the installer instructions and current extension availability.
 
 ## How it works
 
-1. Install the core from npm and run `atm`.
+1. Use the installer to install the core and run `atm`.
 2. Set up your AI client from the welcome page and describe the work you want to do.
 3. Use the local board to follow tasks and revisit their conversation history.
 
