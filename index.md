@@ -11,18 +11,7 @@ title: Agent Task Manager
 
 ## Downloads
 
-- **npm — available:** [agent-task-manager-core](https://www.npmjs.com/package/agent-task-manager-core)
-- **VS Code extension:** Marketplace listing currently unavailable.
-- **Open VSX:** not yet published.
-
-Install the core with Node.js 18 or later:
-
-```sh
-npm install -g agent-task-manager-core
-atm
-```
-
-`atm` starts the local core and opens the welcome page. The core works independently of VS Code; see the welcome page to configure your AI client.
+[Download and install Agent Task Manager](https://si-world.online/download.html) — view the npm installation steps and current extension availability.
 
 ## How it works
 
