@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-13T09:53:56.806Z",
+  "generatedAt": "2026-11-16T09:50:10.893Z",
   "stable": {
-    "version": "1.4.1",
-    "releasedAt": "2026-11-13",
+    "version": "1.5.0",
+    "releasedAt": "2026-11-16",
     "notesUrl": "https://atm.si-world.online/update.html",
     "download": {
-      "npm": "agent-task-manager-core@1.4.1"
+      "npm": "agent-task-manager-core@1.5.0"
     }
   }
 }
