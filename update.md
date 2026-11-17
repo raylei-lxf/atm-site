@@ -9,17 +9,7 @@ The dashboard tells you when a newer release is available: a strip appears under
 
 ## Command-line core (`atm`)
 
-Repeat the installer — it is idempotent, and does nothing when you are already current:
-
-```bash
-curl -fsSL https://atm.si-world.online/install.sh | sh
-```
-
-```powershell
-irm https://atm.si-world.online/install.ps1 | iex
-```
-
-Or use npm directly:
+Upgrade through npm — the same command works on macOS, Linux and Windows:
 
 ```bash
 npm install -g agent-task-manager-core@latest
@@ -27,12 +17,6 @@ atm restart
 ```
 
 `atm restart` is required after upgrading the package: it installs the new core payload and restarts the daemon.
-
-Pin a version when you need to:
-
-```bash
-ATM_VERSION=1.4.1 curl -fsSL https://atm.si-world.online/install.sh | sh
-```
 
 ## VS Code extension
 
