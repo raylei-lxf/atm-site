@@ -25,7 +25,7 @@
 
 ## 注意
 
-- 公测期间免费；npm 核心包已发布，VS Code Marketplace 当前不可用，Open VSX 暂未发布。渠道状态变化时同步更新两个官网首页。
+- 公测期间免费；npm 核心包已发布，VS Code Marketplace 扩展已上架（`si-world.agent-task-manager-si-world`），Open VSX 暂未发布。渠道状态变化时同步更新两个官网首页。
 - 客服邮箱统一为 `atm-support@si-world.online`（已写入 index / privacy / terms）；若以后更换，需三处同改 + 更新 Creem 各处（Business Details / 商品描述 / Private note）；
 - 条款中的"适用法律/管辖"与"消费者权利"条款已于 2026-10-09 补充（任务 #73.8）；退款与恢复政策以站内 terms.md 为准（签发前可退、签发后同设备免费恢复）；
 - 客服邮箱已采用品牌邮箱 `atm-support@si-world.online`，站点使用自有域名 `atm.si-world.online`。
